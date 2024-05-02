@@ -1,0 +1,32 @@
+.heading{
+	    	font-size: 50px;
+	    	font-weight: bolder;
+	    	color: royalblue;
+
+	    }
+	    label{
+	    	font-size: 25px;
+	    	font-weight: bolder;
+	    	color: black;
+
+	    }
+	    .from-con{
+	    	margin-top:50px;
+
+	    }
+	    textarea{
+	    	margin-top: 30px;
+	    	font-size: 25px;
+	    	font-family: sans-serif;
+	    	padding: 20px;
+	    }
+	    button{
+	    	border: none;
+	    	height: 50px;
+	    	width: 150px;
+	    	background-color: royalblue;
+	    	color: white;
+	    	border-radius: 13px;
+	    	/font-weight: bolder;/
+
+	    }
